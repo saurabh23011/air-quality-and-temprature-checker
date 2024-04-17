@@ -1,2 +1,4 @@
-requests
+pip install requests
+api_key 
+url 
 streamlit
