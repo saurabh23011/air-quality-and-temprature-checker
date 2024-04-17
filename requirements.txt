@@ -1,3 +1,2 @@
-api_key
-url
+requests
 streamlit
