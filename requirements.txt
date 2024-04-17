@@ -1,5 +1,3 @@
-altair
-numpy
-pandas
-pydeck
+api_key
+url
 streamlit
